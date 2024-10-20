@@ -8,7 +8,7 @@ Hi there! I'm Weli, a passionate learner with a love for coding and open-source 
 ## Skills
 - **Languages**: JavaScript (AP comp sci), learning Python
 
-- 🔭 I’m currently working on 
+ 
 <!--
 **onsomlem/onsomlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
